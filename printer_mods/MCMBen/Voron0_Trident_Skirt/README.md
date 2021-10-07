@@ -13,7 +13,7 @@ A section will be designed to replace the display section for those without the 
 
 # BoM
 This BoM doesn't include the rubber feet, though for clarity it does include some hardware which is reused from the V0 and V0.1 builds.
-It assumes skirt to front and sides, with only the C14 at the rear.
+It assumes skirt to front and sides, with only the C14 at the rear. You'll need some VHB to hold the fans or fan blanks to the skirts.
 ## Common
 Component | Quantity
 --- | :-:
