@@ -3,7 +3,7 @@ A version of the Trident skirt for the V0 and V0.1, supporting the C14 inlet and
 
 The goal was to implement the aesthetic of the Trident skirt in the smaller form factor, using hardware and screws already in the V0.1 BoM where possible.
 
-Currently, the C14 inlet section is designed for the inlet I bought, which differs from the one in CAD. I will be adding a BoM-compatible version.
+There are two C14 inlet sections: one designed for the inlet I bought, which differs from the one in CAD, and a BoM-compatible version.
 
 A section will be designed to replace the display section for those without the display.
 
