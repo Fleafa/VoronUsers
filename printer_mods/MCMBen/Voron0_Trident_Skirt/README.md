@@ -5,11 +5,20 @@ The goal was to implement the aesthetic of the Trident skirt in the smaller form
 
 Currently, the C14 inlet section is designed for the inlet I bought, which differs from the one in CAD. I will be adding a BoM-compatible version.
 
-The display enclosure is bad right now - looks OK once installed, but needs redesigning from scratch to assemble better (currently only possible by bending one of the middle parts).
-
 A section will be designed to replace the display section for those without the display.
 
 ![image](./Images/Trident_Skirt_Render.png)
+
+The display housing requires a specific assembly order:
+1. Add heatset inserts to display_middle
+2. Add VHB to display_front where the screen_insert will go
+3. Hook display_middle on to display_front
+4. Fix in place using two 2x10mm self-tapping screws
+5. Press screen_insert into place
+6. Attach display_rear with four M3x12 BHCS
+7. Insert two M3x6 BHCS into the pre-inserted nuts, leaving ~2mm gap between head and frame
+8. Place display housing on to these screws and push back until front is flush with frame
+9. You may need to adjust the screws a couple of times to get a good fit
 
 # BoM
 This BoM doesn't include the rubber feet, though for clarity it does include some hardware which is reused from the V0 and V0.1 builds.
