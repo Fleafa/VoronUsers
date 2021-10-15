@@ -39,3 +39,4 @@ V0 Display (LDO recommended) | 1
 M2x10 self-tapping screw | 2
 M3x6 BHCS | 2
 M3x12 BHCS | 4
+M3 threaded insert | 4
