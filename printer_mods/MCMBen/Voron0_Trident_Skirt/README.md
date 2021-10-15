@@ -9,7 +9,7 @@ A section will be designed to replace the display section for those without the 
 
 ![image](./Images/Trident_Skirt_Render.png)
 
-The display housing requires a specific assembly order:
+The display housing requires a specific assembly order (see images folder for more):
 1. Add heatset inserts to display_middle
 2. Add VHB to display_front where the screen_insert will go
 3. Hook display_middle on to display_front
