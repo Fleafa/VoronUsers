@@ -5,9 +5,9 @@ The goal was to implement the aesthetic of the Trident skirt in the smaller form
 
 There are two C14 inlet sections: one designed for the inlet I bought, which differs from the one in CAD, and a BoM-compatible version.
 
-A section will be designed to replace the display section for those without the display.
-
 ![image](./Images/Trident_Skirt_Render.png)
+Included is a front section for those without the display:
+![image](./Images/Trident_Skirt_noscreen_Render.png)
 
 The display housing requires a specific assembly order (see images folder for more):
 1. Add heatset inserts to display_middle
