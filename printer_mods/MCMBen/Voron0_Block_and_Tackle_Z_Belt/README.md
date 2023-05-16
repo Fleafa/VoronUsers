@@ -13,6 +13,7 @@ I've made some changes in the ~2 years since I first designed this. The affected
 * top_bracket_v4 - 'wings' added to add strength and prevent it slipping down under belt tension. Two 6mm screws aid alignment with the vertical extrusions, and two screws utilise the tapped ends of these extrusions to further prevent movement. The clamp (top_bracket_clamp_v1) is now printed separately, for a cleaner look.
 * z_tensioner_v2 - minor changes to facilitate the above.
 * bottom_bracket_v4 - reworked so that the motor doesn't prevent full belt replacement. The belt is secured from above, making assembly easier. The clamp (bottom_bracket_clamp_v1)  is now printed separately.
+The Kirigami bed is now supported. I've based my parts on [LDO's version](https://github.com/MotorDynamicsLab/LDOVoron0/tree/main/STLs/Kirigami), adding an asymmetric stealth bed front design to complement [Christoph Mueller's nut block design](https://github.com/christophmuellerorg/voron_0_kirigami_bed) and a second WAGO mount complementing LDO's breakout mount.
 
 ## V0
 The standard skirt/feet are too short to accomodate the motor. As such, this mod requires a taller skirt, such as:
@@ -25,6 +26,7 @@ The standard skirt/feet are too short to accomodate the motor. As such, this mod
 The standard skirt/feet have enough height, though a 64T pulley may be a squeeze.
 
 ## V0.2
+I haven't removed the Z-stop switch part of the design, so can go sensorless or keep a switch.
 The standard Trident-style skirt provides enough space.
 
 *Full Z-travel should be possible, but be sure to check this.*
@@ -33,6 +35,7 @@ Both the V0 and V0.1/V0.2 bed positions are supported - just print the appropria
 
 ![image](./Images/Block_and_Tackle_Z_Belt_Render_v2.png)
 ![image](./Images/Block_and_Tackle_Z_Belt_Drawing_v2.png)
+![image](./Images/Block_and_Tackle_Z_Belt_Kirigami.png)
 
 # BoM
 This BoM doesn't include Omron switch for the Z stop, though much of the hardware is reused from the V0/V0.1/V0.2 builds.
